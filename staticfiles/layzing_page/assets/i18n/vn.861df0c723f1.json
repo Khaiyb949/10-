@@ -1,0 +1,24 @@
+{
+  "nav": {
+    "all": "<i class=\"fa-solid fa-bars\"></i>Tất Cả",
+    "u": "Ưu Đãi Hôm Nay",
+    "us": "Dịch Vụ Khách Hàng",
+    "uss": "Đăng Ký"
+  },
+  "home": {
+    "All": "Tất Cả Truyện Tranh"
+  },
+  "topslider": {
+    "h1": "Truyện Đề Cử"
+  },
+  "nav3": {
+    "Follow": "Theo Dõi",
+    "ls": "Lịch Sử",
+    "Search": "Tìm Kiếm",
+    "ranking": "Xếp Hạng",
+    "advanced": "Tìm Kiếm Cao Cấp",
+    "tb": "FANPAGE",
+    "ds": "Danh Sách của bạn",
+    "tk": "Tài khoản của bạn"
+  }
+}
