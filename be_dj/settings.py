@@ -94,7 +94,7 @@ CORS_ALLOWED_ORIGINS = [
 ]
 
 ROOT_URLCONF = 'be_dj.urls'
-ALLOWED_HOSTS = ['192.168.1.8', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 LOGIN_URL = None 
 
 TEMPLATES = [
