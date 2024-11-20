@@ -1,0 +1,24 @@
+{
+    "nav": {
+      "all": "ALL",
+      "u": "Today's Deals",
+      "us": "Customer Service",
+      "uss": "Registry"
+    },
+    "home": {
+      "All": "All the stories"
+    },
+    "topslider": {
+      "h1": "Recommended Stories"
+    },
+    "nav3": {
+      "Follow": "Follow",
+      "ls": "History of watching stories",
+      "Search": "Search for Stories",
+      "ranking": "Ranking of Stories",
+      "advanced": "Advanced Search",
+      "tb": "FANPAGE",
+      "ds": "My Lists",
+      "tk": "My Account"
+    }
+  }
