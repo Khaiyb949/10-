@@ -131,7 +131,7 @@ DATABASES = {
         'PORT': '5432',
     }
 }
-DATABASES['default'] = dj_database_url.parse("postgresql://postgress:cXt53A0FpDRiXbE0Wj9CTmD1vMXhxzVU@dpg-csukkslumphs739jk0sg-a.singapore-postgres.render.com/db_8pfe")
+DATABASES['default'] = dj_database_url.parse("postgresql://postgress:A6G3z5j4G8QtqNshjfsXuiTl3YlITzuX@dpg-csunp5qj1k6c738h8l4g-a.singapore-postgres.render.com/db_eak1")
 
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
